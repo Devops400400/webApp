@@ -10,7 +10,7 @@ namespace webTest
             int i = 1;
             var result = false;
             if (i == 1) result = true;
-            Assert.True(result,"value should be equal to one ");
+            Assert.True(result, "value should be equal to one ");
         }
     }
 }
